@@ -1,9 +1,11 @@
 apiVersion: v2
 entries:
-- apiVersion: v2
-  created: "2023-04-01T12:00:00.000000Z"
-  description: The real GCP Secret Injector for GKE Cluster
-  name: cloud-army-secret-injector
-  version: 0.1
-  urls:
-  - https://github.com/cloud-army/helm-charts/blob/gh-pages/docs/cloud-army-secret-injector-0.1.tgz
+  cloud-army-secret-injector:
+  - apiVersion: v2
+    created: "2023-04-01T12:00:00.000000Z"
+    description: The real GCP Secret Injector for GKE Cluster
+    name: cloud-army-secret-injector
+    version: 0.1
+    urls:
+    - https://github.com/cloud-army/helm-charts/blob/gh-pages/docs/cloud-army-secret-injector-0.1.tgz
+
