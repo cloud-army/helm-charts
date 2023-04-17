@@ -6,4 +6,4 @@ entries:
   name: cloud-army-secret-injector
   version: 0.1
   urls:
-  - https://github.com/cloud-army/helm-charts/blob/main/cloud-army-secret-injector-0.1.tgz
+  - https://github.com/cloud-army/helm-charts/blob/gh-pages/docs/cloud-army-secret-injector-0.1.tgz
