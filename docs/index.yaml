@@ -6,4 +6,4 @@ entries:
     description: The real GCP Secret Injector for GKE Cluster
     name: cloud-army-secret-injector
     urls:
-    - https://github.com/cloud-army/helm-charts/raw/gh-pages/docs/cloud-army-secret-injector-0.1.tgz
+    - https://github.com/cloud-army/helm-charts/releases/download/helm/cloud-army-secret-injector-0.1.tgz
